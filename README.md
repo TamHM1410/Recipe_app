@@ -6,7 +6,12 @@ Demo App:
 
 
 First ,install node_modules:
+
 npm i
+
+
+
+
 Then,run the development client:
 npm run dev
 # or
